@@ -1,0 +1,11 @@
+export const POPULAR_MOVIES = 'POPULAR_MOVIES';
+export const FREE_TO_WATCH_MOVIES = 'FREE_TO_WATCH_MOVIES';
+export const TRENDING_MOVIES = 'TRENDING_MOVIES';
+export const ALL_MOVIES = 'ALL_MOVIES';
+export const MOVIES = 'MOVIES';
+export const TOP_RATED_TV_SHOWS = 'TOP_RATED_TV_SHOWS';
+export const ON_AIR_TV_SHOWS = 'ON_AIR_TV_SHOWS';
+export const POPULAR_TV_SHOWS = 'POPULAR_TV_SHOWS';
+export const ALL_TV_SHOWS = 'ALL_TV_SHOWS';
+export const PEOPLE = 'PEOPLE';
+export const ALL_PEOPLE = 'ALL_PEOPLE';

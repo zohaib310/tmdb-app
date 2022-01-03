@@ -1,0 +1,30 @@
+.box {
+  background: #032541;
+  margin: 1rem 0 0 0;
+}
+
+.footer_logo {
+  height: 190px;
+  margin: 2rem 0rem;
+  width: 200px;
+}
+
+.links {
+  padding: 2% 0 0 40px;
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 1.4em;
+  line-height: 1.4em;
+  text-transform: uppercase;
+  color: #fff;
+  white-space: nowrap;
+  margin: 0px;
+}
+
+.link {
+  font-size: 1em;
+  color: #fff;
+  margin: 3px 0px;
+}

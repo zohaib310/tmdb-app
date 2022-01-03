@@ -1,0 +1,27 @@
+.root {
+  width: 200px;
+  text-align: center;
+  max-width: 345px;
+  margin-top: 3rem;
+  border-radius: 8px;
+}
+
+.media {
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 8px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+h2 {
+  font-weight: 700;
+  color: #000;
+}
+
+h2:hover {
+  color: #01b8ec;
+}

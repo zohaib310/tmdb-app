@@ -1,0 +1,36 @@
+.banner.banner {
+  background-image: url('https://www.themoviedb.org/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,01b4e4)/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+  padding: 2rem;
+}
+
+h1 {
+  color: white;
+  margin-bottom: 0px;
+  font-size: 3rem;
+}
+h3 {
+  color: white;
+  margin-top: 0px;
+  font-size: 1.5rem;
+}
+
+.text_field.text_field {
+  background-color: white;
+  border-radius: 50px;
+}
+
+.movies.movies {
+  overflow-y: hidden;
+  overflow-x: auto;
+  transition: height 0.5s linear;
+  flex-wrap: nowrap;
+}
+
+.type_text {
+  font-size: 1.5em;
+  margin: 2rem 0 0 3rem;
+  font-weight: 600;
+}
