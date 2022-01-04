@@ -1,3 +1,6 @@
+//Action creators are the functions that create action object.
+//Action creator functions return an object which can either take parameters e.g type and payload.
+
 import * as actionTypes from './actionTypes';
 
 export const setAllMovies = (data) => {
@@ -59,6 +62,6 @@ export const setPeople = (data) => {
 export const setAllPeople = (data) => {
   return {
     type: actionTypes.ALL_PEOPLE,
-    payload: data
-  }
-}
+    payload: data,
+  };
+};

@@ -16,7 +16,7 @@ const ItemCard = (props) => {
     []
   );
   const img = `${imageBseUrl}${item.poster_path || item.profile_path}`;
-  console.log('item', item);
+
   return (
     <Card className={classes.root}>
       <Link to={`${props.link}/${item.id}`} className={classes.link}>

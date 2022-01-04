@@ -1,0 +1,11 @@
+.details_image {
+  height: 450px;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.color_heading.color_heading {
+  margin-left: 2rem;
+  color: white;
+  font-family: Source Sans Pro, Arial, sans-serif;
+}
